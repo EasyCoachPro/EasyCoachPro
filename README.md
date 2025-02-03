@@ -1,5 +1,5 @@
 # EasyCoachPro Support
-Bienvenue sur la page de support de EasyCoachPro.
+Bienvenue sur la page de support de l'application mobile EasyCoachPro.
 
 **Comment nous contacter ?**
 - 📧 Email : easycoachpro@gmail.com
