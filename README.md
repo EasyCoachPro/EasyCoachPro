@@ -1,4 +1,4 @@
-<img width="300" alt="Logo 2" src="https://github.com/user-attachments/assets/7a665e8e-2791-464d-acee-355c9d613769" /> <img width="400" alt="Logo 2" src="https://github.com/user-attachments/assets/17bfe0dc-e917-48a4-9446-dcfbead1cc41" /> 
+<img width="290" alt="Logo 2" src="https://github.com/user-attachments/assets/7a665e8e-2791-464d-acee-355c9d613769" /> <img width="390" alt="affiche" src="https://github.com/user-attachments/assets/17bfe0dc-e917-48a4-9446-dcfbead1cc41" /> 
 
 
 # EasyCoachPro Support
